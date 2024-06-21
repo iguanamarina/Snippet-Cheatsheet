@@ -1,10 +1,12 @@
 Snippet Cheatsheet
 ================
+Juan A. Arias
 
 - [Introducción al Cheatsheet](#introducción-al-cheatsheet)
   - [Inicio de Scripts](#inicio-de-scripts)
     - [*preambulo*](#preambulo)
   - [Organización de Código](#organización-de-código)
+    - [*esqueleto*](#esqueleto)
   - [Estructuras de Control](#estructuras-de-control)
   - [Acciones Rápidas](#acciones-rápidas)
 
@@ -51,6 +53,73 @@ snippet preambulo
 ```
 
 ## Organización de Código
+
+### *esqueleto*
+
+``` r
+snippet esqueleto
+    ####
+    # 1) SECCIÓN 1  ---- 
+    ####
+    
+    # Descripción de la sección 1: Explicación de lo que se hará en esta sección.
+    
+    #* Tarea 1 ----
+    
+    # Aquí irá el código para la Tarea 1
+    
+
+    #* Tarea 2 ----
+    
+    # Aquí irá el código para la Tarea 2
+    
+
+    #* Tarea 3 ----
+    
+    # Aquí irá el código para la Tarea 3
+    
+
+    ####  
+    # 2) SECCIÓN 2 ----------
+    ####
+    
+    # Descripción de la sección 2: Explicación de lo que se hará en esta sección.
+    
+    #* Tarea 1 ----
+    
+    # Aquí irá el código para la Tarea 1
+    
+
+    #* Tarea 2 ----
+    
+    # Aquí irá el código para la Tarea 2
+    
+
+    #* Tarea 3 ----
+    
+    # Aquí irá el código para la Tarea 3
+    
+
+    ####
+    # 3) SECCIÓN 3 ----------
+    ####
+    
+    # Descripción de la sección 3: Explicación de lo que se hará en esta sección.
+    
+    #* Tarea 1 ----
+    
+    # Aquí irá el código para la Tarea 1
+    
+
+    #* Tarea 2 ----
+    
+    # Aquí irá el código para la Tarea 2
+    
+
+    #* Tarea 3 ----
+    
+    # Aquí irá el código para la Tarea 3
+```
 
 ## Estructuras de Control
 
